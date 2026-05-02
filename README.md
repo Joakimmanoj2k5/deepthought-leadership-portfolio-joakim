@@ -1,5 +1,5 @@
 # Leadership Portfolio Redesign — DeepThought PM Internship Assignment
- **Candidate:** Joakim Manoj   **Email:** joakimmanoj5002@gmail.com   **GitHub:** [@Joakimmanoj2k5](https://github.com/Joakimmanoj2k5)   **LinkedIn:** [joakim-manoj](https://linkedin.com/in/joakim-manoj-26342628a)   **Institution:** B.Tech IT, Government Engineering College Barton Hill (CGPA 9.0/10)
+ **Candidate:** Joakim Manoj   **Email:** joakimmanoj5002@gmail.com   **GitHub:** [@Joakimmanoj2k5](https://github.com/Joakimmanoj2k5)   **LinkedIn:** [joakim-manoj](https://linkedin.com/in/joakim-manoj-26342628a)   **Institution:** B.Tech IT, Government Engineering College Barton Hill
 
 ---
 
